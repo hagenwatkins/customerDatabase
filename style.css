@@ -2,7 +2,7 @@ ul {
   display: flex;
   list-style: none;
   flex-wrap: wrap;
-  margin-left: 40px;
+
   justify-content: space-between;
 }
 li {
